@@ -2,6 +2,8 @@
 
 My work from following the Microsoft Docs Learning Path [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/).
 
+*Completed on 8/14/2021.*
+
 ## Modules in this learning path
 
 [**What is Python?**](#) - A quick introduction to Python, programming languages, compilation, and the process of programming.
