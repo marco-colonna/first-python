@@ -1,6 +1,6 @@
 # Take your first steps with Python
 
-My work from following the Microsoft Docs Learning Path [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/).
+My work from following the Microsoft Learn learning path [Take your first steps with Python](https://docs.microsoft.com/en-us/learn/paths/python-first-steps/).
 
 *Completed on 8/14/2021.*
 
